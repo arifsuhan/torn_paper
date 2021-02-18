@@ -1,0 +1,1925 @@
+@font-face{
+	font-family: KeertankhulaMJ;
+	src: url('../font/pack2/KeertankhulaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KhooaiMJ-Bold;
+	src: url('../font/pack2/KhooaiMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KhooaiMJ-BoldItalic;
+	src: url('../font/pack2/KhooaiMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KhooaiMJ-Italic;
+	src: url('../font/pack2/KhooaiMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KhooaiMJ;
+	src: url('../font/pack2/KhooaiMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KhooaiMatraMJ-Bold;
+	src: url('../font/pack2/KhooaiMatraMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KhooaiMatraMJ-BoldItalic;
+	src: url('../font/pack2/KhooaiMatraMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KhooaiMatraMJ-Italic;
+	src: url('../font/pack2/KhooaiMatraMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KhooaiMatraMJ;
+	src: url('../font/pack2/KhooaiMatraMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KhooaiSMJ;
+	src: url('../font/pack2/KhooaiSMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KirtinashaMJ-Bold;
+	src: url('../font/pack2/KirtinashaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KirtinashaMJ-BoldItalic;
+	src: url('../font/pack2/KirtinashaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KirtinashaMJ-Italic;
+	src: url('../font/pack2/KirtinashaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KirtinashaMJ;
+	src: url('../font/pack2/KirtinashaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KongshoMJ-Bold;
+	src: url('../font/pack2/KongshoMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KongshoMJ-BoldItalic;
+	src: url('../font/pack2/KongshoMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KongshoMJ-Italic;
+	src: url('../font/pack2/KongshoMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KongshoMJ;
+	src: url('../font/pack2/KongshoMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KongshoMatraMJ-Bold;
+	src: url('../font/pack2/KongshoMatraMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KongshoMatraMJ-BoldItalic;
+	src: url('../font/pack2/KongshoMatraMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KongshoMatraMJ-Italic;
+	src: url('../font/pack2/KongshoMatraMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KongshoMatraMJ;
+	src: url('../font/pack2/KongshoMatraMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KopotakshaMJ-Bold;
+	src: url('../font/pack2/KopotakshaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KopotakshaMJ-BoldItalic;
+	src: url('../font/pack2/KopotakshaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KopotakshaMJ-Italic;
+	src: url('../font/pack2/KopotakshaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KopotakshaMJ;
+	src: url('../font/pack2/KopotakshaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KorotoaMJ-Bold;
+	src: url('../font/pack2/KorotoaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KorotoaMJ-BoldItalic;
+	src: url('../font/pack2/KorotoaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KorotoaMJ-Italic;
+	src: url('../font/pack2/KorotoaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KorotoaMJ;
+	src: url('../font/pack2/KorotoaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KumarkhaliMJ-Bold;
+	src: url('../font/pack2/KumarkhaliMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KumarkhaliMJ-BoldItalic;
+	src: url('../font/pack2/KumarkhaliMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KumarkhaliMJ-Italic;
+	src: url('../font/pack2/KumarkhaliMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KumarkhaliMJ;
+	src: url('../font/pack2/KumarkhaliMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KushiaraMJ-Bold;
+	src: url('../font/pack2/KushiaraMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KushiaraMJ-BoldItalic;
+	src: url('../font/pack2/KushiaraMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KushiaraMJ-Italic;
+	src: url('../font/pack2/KushiaraMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: KushiaraMJ;
+	src: url('../font/pack2/KushiaraMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: LIPI_21;
+	src: url('../font/pack2/LIPI_21.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: LIPI_B;
+	src: url('../font/pack2/LIPI_B.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: LIPI_BE;
+	src: url('../font/pack2/LIPI_BE.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: LIPI_C;
+	src: url('../font/pack2/LIPI_C.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: LIPI_E;
+	src: url('../font/pack2/LIPI_E.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: LIPI_NO;
+	src: url('../font/pack2/LIPI_NO.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: LUCON;
+	src: url('../font/pack2/LUCON.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MADHAB_C;
+	src: url('../font/pack2/MADHAB_C.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MADHAB_E;
+	src: url('../font/pack2/MADHAB_E.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MADHAB_N;
+	src: url('../font/pack2/MADHAB_N.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MADHOB;
+	src: url('../font/pack2/MADHOB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MADHUMAT;
+	src: url('../font/pack2/MADHUMAT.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOCBI_;
+	src: url('../font/pack2/MAHOCBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOCB__;
+	src: url('../font/pack2/MAHOCB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOCI__;
+	src: url('../font/pack2/MAHOCI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOC___;
+	src: url('../font/pack2/MAHOC___.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOEBI_;
+	src: url('../font/pack2/MAHOEBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOEB__;
+	src: url('../font/pack2/MAHOEB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOEI__;
+	src: url('../font/pack2/MAHOEI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOE___;
+	src: url('../font/pack2/MAHOE___.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOMBI_;
+	src: url('../font/pack2/MAHOMBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOMB__;
+	src: url('../font/pack2/MAHOMB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOMI__;
+	src: url('../font/pack2/MAHOMI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAHOUA;
+	src: url('../font/pack2/MAHOUA.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAIAN;
+	src: url('../font/pack2/MAIAN.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAIANDB;
+	src: url('../font/pack2/MAIANDB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MALOTI_C;
+	src: url('../font/pack2/MALOTI_C.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MALOTI_E;
+	src: url('../font/pack2/MALOTI_E.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MALOTI_N;
+	src: url('../font/pack2/MALOTI_N.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MALSB;
+	src: url('../font/pack2/MALSB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MALSBEXR;
+	src: url('../font/pack2/MALSBEXR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MALSFB;
+	src: url('../font/pack2/MALSFB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MALSFR;
+	src: url('../font/pack2/MALSFR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MALSMR;
+	src: url('../font/pack2/MALSMR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MALSR;
+	src: url('../font/pack2/MALSR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MAPSYM;
+	src: url('../font/pack2/MAPSYM.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MARIGOLD;
+	src: url('../font/pack2/MARIGOLD.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MARLETT;
+	src: url('../font/pack2/MARLETT.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MATURASC;
+	src: url('../font/pack2/MATURASC.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MEGHO___;
+	src: url('../font/pack2/MEGHO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MICHAEL;
+	src: url('../font/pack2/MICHAEL.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MICHAELB;
+	src: url('../font/pack2/MICHAELB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MICHAELC;
+	src: url('../font/pack2/MICHAELC.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MICHAELE;
+	src: url('../font/pack2/MICHAELE.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MICHAELH;
+	src: url('../font/pack2/MICHAELH.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MICHAELL;
+	src: url('../font/pack2/MICHAELL.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MICHAELO;
+	src: url('../font/pack2/MICHAELO.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MICHAELS;
+	src: url('../font/pack2/MICHAELS.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MIMMO;
+	src: url('../font/pack2/MIMMO.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MIMMOF;
+	src: url('../font/pack2/MIMMOF.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MIMMOFO;
+	src: url('../font/pack2/MIMMOFO.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MINT3;
+	src: url('../font/pack2/MINT3.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MISTRAL;
+	src: url('../font/pack2/MISTRAL.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MOD20;
+	src: url('../font/pack2/MOD20.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MODERNE;
+	src: url('../font/pack2/MODERNE.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MODHO___;
+	src: url('../font/pack2/MODHO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MOGI;
+	src: url('../font/pack2/MOGI.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MOGIB;
+	src: url('../font/pack2/MOGIB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MOGRO___;
+	src: url('../font/pack2/MOGRO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MOHAO___;
+	src: url('../font/pack2/MOHAO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MOLLB;
+	src: url('../font/pack2/MOLLB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MONOOOMJ;
+	src: url('../font/pack2/MONOOOMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MTEXTRA;
+	src: url('../font/pack2/MTEXTRA.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MTSORTS;
+	src: url('../font/pack2/MTSORTS.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: MahouaMJ-Bold;
+	src: url('../font/pack2/MahouaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MahouaMJ-BoldItalic;
+	src: url('../font/pack2/MahouaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MahouaMJ-Italic;
+	src: url('../font/pack2/MahouaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MahouaMJ;
+	src: url('../font/pack2/MahouaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MeghnaMJ-Bold;
+	src: url('../font/pack2/MeghnaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MeghnaMJ-BoldItalic;
+	src: url('../font/pack2/MeghnaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MeghnaMJ-Italic;
+	src: url('../font/pack2/MeghnaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MeghnaMJ;
+	src: url('../font/pack2/MeghnaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ModhumatiMJ-Bold;
+	src: url('../font/pack2/ModhumatiMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ModhumatiMJ-BoldItalic;
+	src: url('../font/pack2/ModhumatiMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ModhumatiMJ-Italic;
+	src: url('../font/pack2/ModhumatiMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ModhumatiMJ;
+	src: url('../font/pack2/ModhumatiMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MogrhaMJ-Bold;
+	src: url('../font/pack2/MogrhaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MogrhaMJ-BoldItalic;
+	src: url('../font/pack2/MogrhaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MogrhaMJ-Italic;
+	src: url('../font/pack2/MogrhaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MogrhaMJ;
+	src: url('../font/pack2/MogrhaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MohanondaMJ-Bold;
+	src: url('../font/pack2/MohanondaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MohanondaMJ-BoldItalic;
+	src: url('../font/pack2/MohanondaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MohanondaMJ-Italic;
+	src: url('../font/pack2/MohanondaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MohanondaMJ;
+	src: url('../font/pack2/MohanondaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MonooMJ-Bold;
+	src: url('../font/pack2/MonooMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MonooMJ-BoldItalic;
+	src: url('../font/pack2/MonooMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MonooMJ-Italic;
+	src: url('../font/pack2/MonooMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: MonooMJ;
+	src: url('../font/pack2/MonooMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NAUETT;
+	src: url('../font/pack2/NAUETT.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: NOBOO___;
+	src: url('../font/pack2/NOBOO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NORMALB;
+	src: url('../font/pack2/NORMALB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: NORSO___;
+	src: url('../font/pack2/NORSO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NUC;
+	src: url('../font/pack2/NUC.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: NUCH;
+	src: url('../font/pack2/NUCH.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: NUCS;
+	src: url('../font/pack2/NUCS.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: NUCSH;
+	src: url('../font/pack2/NUCSH.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: NobogongaMJ-Bold;
+	src: url('../font/pack2/NobogongaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NobogongaMJ-BoldItalic;
+	src: url('../font/pack2/NobogongaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NobogongaMJ-Italic;
+	src: url('../font/pack2/NobogongaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NobogongaMJ;
+	src: url('../font/pack2/NobogongaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NorsundaMJ-Bold;
+	src: url('../font/pack2/NorsundaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NorsundaMJ-BoldItalic;
+	src: url('../font/pack2/NorsundaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NorsundaMJ-Italic;
+	src: url('../font/pack2/NorsundaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: NorsundaMJ;
+	src: url('../font/pack2/NorsundaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: OK;
+	src: url('../font/pack2/OK.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: OKB;
+	src: url('../font/pack2/OKB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: OKEB;
+	src: url('../font/pack2/OKEB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: OKH;
+	src: url('../font/pack2/OKH.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: OKL;
+	src: url('../font/pack2/OKL.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: OL54TT;
+	src: url('../font/pack2/OL54TT.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: OUTLOOK;
+	src: url('../font/pack2/OUTLOOK.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMACMJ;
+	src: url('../font/pack2/PADMACMJ.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMAEMJ;
+	src: url('../font/pack2/PADMAEMJ.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMAMJ_;
+	src: url('../font/pack2/PADMAMJ_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMAOMJ;
+	src: url('../font/pack2/PADMAOMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PADMCBI_;
+	src: url('../font/pack2/PADMCBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMCB__;
+	src: url('../font/pack2/PADMCB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMCI__;
+	src: url('../font/pack2/PADMCI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMMBI_;
+	src: url('../font/pack2/PADMMBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMMB__;
+	src: url('../font/pack2/PADMMB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMMI__;
+	src: url('../font/pack2/PADMMI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMOB;
+	src: url('../font/pack2/PADMOB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMO_C;
+	src: url('../font/pack2/PADMO_C.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMO_E;
+	src: url('../font/pack2/PADMO_E.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PADMO_N;
+	src: url('../font/pack2/PADMO_N.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALAF;
+	src: url('../font/pack2/PALAF.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALAFB;
+	src: url('../font/pack2/PALAFB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALASH_C;
+	src: url('../font/pack2/PALASH_C.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALASH_E;
+	src: url('../font/pack2/PALASH_E.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALASH_N;
+	src: url('../font/pack2/PALASH_N.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALATBOL;
+	src: url('../font/pack2/PALATBOL.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALATIA;
+	src: url('../font/pack2/PALATIA.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALATITA;
+	src: url('../font/pack2/PALATITA.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALMSPRB;
+	src: url('../font/pack2/PALMSPRB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PALMSPRI;
+	src: url('../font/pack2/PALMSPRI.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDCBI_;
+	src: url('../font/pack2/PANDCBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDCB__;
+	src: url('../font/pack2/PANDCB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDCI__;
+	src: url('../font/pack2/PANDCI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDC___;
+	src: url('../font/pack2/PANDC___.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDEBI_;
+	src: url('../font/pack2/PANDEBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDEB__;
+	src: url('../font/pack2/PANDEB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDE___;
+	src: url('../font/pack2/PANDE___.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDIT;
+	src: url('../font/pack2/PANDIT.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDMBI_;
+	src: url('../font/pack2/PANDMBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDMB__;
+	src: url('../font/pack2/PANDMB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDMI__;
+	src: url('../font/pack2/PANDMI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDM___;
+	src: url('../font/pack2/PANDM___.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDULIP;
+	src: url('../font/pack2/PANDULIP.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PANDUP;
+	src: url('../font/pack2/PANDUP.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARACBI_;
+	src: url('../font/pack2/PARACBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARACB__;
+	src: url('../font/pack2/PARACB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARACI__;
+	src: url('../font/pack2/PARACI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAC___;
+	src: url('../font/pack2/PARAC___.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAEBI_;
+	src: url('../font/pack2/PARAEBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAEB__;
+	src: url('../font/pack2/PARAEB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAEI__;
+	src: url('../font/pack2/PARAEI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAKO__;
+	src: url('../font/pack2/PARAKO__.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PARAMBI_;
+	src: url('../font/pack2/PARAMBI_.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAMB__;
+	src: url('../font/pack2/PARAMB__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAMI__;
+	src: url('../font/pack2/PARAMI__.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAO___;
+	src: url('../font/pack2/PARAO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PARASHP;
+	src: url('../font/pack2/PARASHP.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARASO__;
+	src: url('../font/pack2/PARASO__.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PARAZ;
+	src: url('../font/pack2/PARAZ.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAZB;
+	src: url('../font/pack2/PARAZB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAZF;
+	src: url('../font/pack2/PARAZF.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PARAZFB;
+	src: url('../font/pack2/PARAZFB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PATTRALE;
+	src: url('../font/pack2/PATTRALE.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PINKO___;
+	src: url('../font/pack2/PINKO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PLAYBILL;
+	src: url('../font/pack2/PLAYBILL.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: POLO;
+	src: url('../font/pack2/POLO.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRESDNTN;
+	src: url('../font/pack2/PRESDNTN.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-ART;
+	src: url('../font/pack2/PRO-ART.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-CON;
+	src: url('../font/pack2/PRO-CON.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-CUR;
+	src: url('../font/pack2/PRO-CUR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-EXP;
+	src: url('../font/pack2/PRO-EXP.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-EXP2;
+	src: url('../font/pack2/PRO-EXP2.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-HAND;
+	src: url('../font/pack2/PRO-HAND.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-NOR;
+	src: url('../font/pack2/PRO-NOR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-SCR;
+	src: url('../font/pack2/PRO-SCR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-SCRT;
+	src: url('../font/pack2/PRO-SCRT.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-SPOT;
+	src: url('../font/pack2/PRO-SPOT.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PRO-STR1;
+	src: url('../font/pack2/PRO-STR1.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PROTIK;
+	src: url('../font/pack2/PROTIK.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: PUNOO___;
+	src: url('../font/pack2/PUNOO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PadmaMJ-Bold;
+	src: url('../font/pack2/PadmaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PadmaMJ-BoldItalic;
+	src: url('../font/pack2/PadmaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PadmaMJ-Italic;
+	src: url('../font/pack2/PadmaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PadmaMJ;
+	src: url('../font/pack2/PadmaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PairaMJ-Bold;
+	src: url('../font/pack2/PairaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PairaMJ-BoldItalic;
+	src: url('../font/pack2/PairaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PairaMJ-Italic;
+	src: url('../font/pack2/PairaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PairaMJ;
+	src: url('../font/pack2/PairaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ParashMJ-Bold;
+	src: url('../font/pack2/ParashMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ParashMJ-BoldItalic;
+	src: url('../font/pack2/ParashMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ParashMJ-Italic;
+	src: url('../font/pack2/ParashMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ParashMJ;
+	src: url('../font/pack2/ParashMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ParashSushreeMJ-Bold;
+	src: url('../font/pack2/ParashSushreeMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ParashSushreeMJ-BoldItalic;
+	src: url('../font/pack2/ParashSushreeMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ParashSushreeMJ-Italic;
+	src: url('../font/pack2/ParashSushreeMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ParashSushreeMJ;
+	src: url('../font/pack2/ParashSushreeMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PinkiyMJ-Bold;
+	src: url('../font/pack2/PinkiyMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PinkiyMJ-BoldItalic;
+	src: url('../font/pack2/PinkiyMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PinkiyMJ-Italic;
+	src: url('../font/pack2/PinkiyMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PinkiyMJ;
+	src: url('../font/pack2/PinkiyMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PoshurMJ-Bold;
+	src: url('../font/pack2/PoshurMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PoshurMJ-BoldItalic;
+	src: url('../font/pack2/PoshurMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PoshurMJ-Italic;
+	src: url('../font/pack2/PoshurMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PoshurMJ;
+	src: url('../font/pack2/PoshurMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PoshurOMJ;
+	src: url('../font/pack2/PoshurOMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PunorvabaMJ-Bold;
+	src: url('../font/pack2/PunorvabaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PunorvabaMJ-BoldItalic;
+	src: url('../font/pack2/PunorvabaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PunorvabaMJ-Italic;
+	src: url('../font/pack2/PunorvabaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: PunorvabaMJ;
+	src: url('../font/pack2/PunorvabaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: QUO;
+	src: url('../font/pack2/QUO.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: QUOO;
+	src: url('../font/pack2/QUOO.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: QUOR;
+	src: url('../font/pack2/QUOR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: QUORZ;
+	src: url('../font/pack2/QUORZ.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RABINDRC;
+	src: url('../font/pack2/RABINDRC.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RABINDRI;
+	src: url('../font/pack2/RABINDRI.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RAJANI_C;
+	src: url('../font/pack2/RAJANI_C.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RAJANI_E;
+	src: url('../font/pack2/RAJANI_E.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RAJANI_L;
+	src: url('../font/pack2/RAJANI_L.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RAJANI_N;
+	src: url('../font/pack2/RAJANI_N.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RASLR;
+	src: url('../font/pack2/RASLR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RASLRB;
+	src: url('../font/pack2/RASLRB.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RASULR;
+	src: url('../font/pack2/RASULR.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RATOO___;
+	src: url('../font/pack2/RATOO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RECHTMAN;
+	src: url('../font/pack2/RECHTMAN.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RENFREWN;
+	src: url('../font/pack2/RENFREWN.TTF') format('truetype');
+}
+
+@font-face{
+	font-family: RINKKO__;
+	src: url('../font/pack2/RINKKO__.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RINKO___;
+	src: url('../font/pack2/RINKO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RINKSO__;
+	src: url('../font/pack2/RINKSO__.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RatoolMJ-Bold;
+	src: url('../font/pack2/RatoolMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RatoolMJ-BoldItalic;
+	src: url('../font/pack2/RatoolMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RatoolMJ-Italic;
+	src: url('../font/pack2/RatoolMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RatoolMJ;
+	src: url('../font/pack2/RatoolMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RinkiyMJ-Bold;
+	src: url('../font/pack2/RinkiyMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RinkiyMJ-BoldItalic;
+	src: url('../font/pack2/RinkiyMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RinkiyMJ-Italic;
+	src: url('../font/pack2/RinkiyMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RinkiyMJ;
+	src: url('../font/pack2/RinkiyMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RinkiySushreeAMJ;
+	src: url('../font/pack2/RinkiySushreeAMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RinkiySushreeMJ-Bold;
+	src: url('../font/pack2/RinkiySushreeMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RinkiySushreeMJ-BoldItalic;
+	src: url('../font/pack2/RinkiySushreeMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RinkiySushreeMJ-Italic;
+	src: url('../font/pack2/RinkiySushreeMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RinkiySushreeMJ;
+	src: url('../font/pack2/RinkiySushreeMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RupshaMJ-Bold;
+	src: url('../font/pack2/RupshaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RupshaMJ-BoldItalic;
+	src: url('../font/pack2/RupshaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RupshaMJ-Italic;
+	src: url('../font/pack2/RupshaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: RupshaMJ;
+	src: url('../font/pack2/RupshaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SHALO___;
+	src: url('../font/pack2/SHALO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SHURO___;
+	src: url('../font/pack2/SHURO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SUGOO___;
+	src: url('../font/pack2/SUGOO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SUMEO___;
+	src: url('../font/pack2/SUMEO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SUTOSO__;
+	src: url('../font/pack2/SUTOSO__.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SUTOUBO_;
+	src: url('../font/pack2/SUTOUBO_.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SamakalMJ-Bold;
+	src: url('../font/pack2/SamakalMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SamakalMJ-BoldItalic;
+	src: url('../font/pack2/SamakalMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SamakalMJ-Italic;
+	src: url('../font/pack2/SamakalMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SamakalMJ;
+	src: url('../font/pack2/SamakalMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ShaldaMJ-Bold;
+	src: url('../font/pack2/ShaldaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ShaldaMJ-BoldItalic;
+	src: url('../font/pack2/ShaldaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ShaldaMJ-Italic;
+	src: url('../font/pack2/ShaldaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ShaldaMJ;
+	src: url('../font/pack2/ShaldaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ShurmaMJ-Bold;
+	src: url('../font/pack2/ShurmaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ShurmaMJ-BoldItalic;
+	src: url('../font/pack2/ShurmaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ShurmaMJ-Italic;
+	src: url('../font/pack2/ShurmaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: ShurmaMJ;
+	src: url('../font/pack2/ShurmaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: Siyamrupali;
+	src: url('../font/pack2/Siyamrupali.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SugondhaMJ-Bold;
+	src: url('../font/pack2/SugondhaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SugondhaMJ-BoldItalic;
+	src: url('../font/pack2/SugondhaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SugondhaMJ-Italic;
+	src: url('../font/pack2/SugondhaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SugondhaMJ;
+	src: url('../font/pack2/SugondhaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SumeshwariMJ-Bold;
+	src: url('../font/pack2/SumeshwariMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SumeshwariMJ-BoldItalic;
+	src: url('../font/pack2/SumeshwariMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SumeshwariMJ-Italic;
+	src: url('../font/pack2/SumeshwariMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SumeshwariMJ;
+	src: url('../font/pack2/SumeshwariMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SutonnyMJ-Bold;
+	src: url('../font/pack2/SutonnyMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SutonnyMJ-BoldItalic;
+	src: url('../font/pack2/SutonnyMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SutonnyMJ-Italic;
+	src: url('../font/pack2/SutonnyMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SutonnyMJ;
+	src: url('../font/pack2/SutonnyMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SutonnyOMJ;
+	src: url('../font/pack2/SutonnyOMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SutonnySushreeMJ-Bold;
+	src: url('../font/pack2/SutonnySushreeMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SutonnySushreeMJ-BoldItalic;
+	src: url('../font/pack2/SutonnySushreeMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SutonnySushreeMJ-Italic;
+	src: url('../font/pack2/SutonnySushreeMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: SutonnySushreeMJ;
+	src: url('../font/pack2/SutonnySushreeMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TEESO___;
+	src: url('../font/pack2/TEESO___.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TONNBO__;
+	src: url('../font/pack2/TONNBO__.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TONNKO__;
+	src: url('../font/pack2/TONNKO__.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TONNSO__;
+	src: url('../font/pack2/TONNSO__.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TURAGOMJ;
+	src: url('../font/pack2/TURAGOMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TangonMJ-Bold;
+	src: url('../font/pack2/TangonMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TangonMJ-BoldItalic;
+	src: url('../font/pack2/TangonMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TangonMJ-Italic;
+	src: url('../font/pack2/TangonMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TangonMJ;
+	src: url('../font/pack2/TangonMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TangonMotaMJ-Bold;
+	src: url('../font/pack2/TangonMotaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TangonMotaMJ-BoldItalic;
+	src: url('../font/pack2/TangonMotaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TangonMotaMJ-Italic;
+	src: url('../font/pack2/TangonMotaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TangonMotaMJ;
+	src: url('../font/pack2/TangonMotaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TeeshtaAMJ;
+	src: url('../font/pack2/TeeshtaAMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TeeshtaMJ-Bold;
+	src: url('../font/pack2/TeeshtaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TeeshtaMJ-BoldItalic;
+	src: url('../font/pack2/TeeshtaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TeeshtaMJ-Italic;
+	src: url('../font/pack2/TeeshtaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TeeshtaMJ;
+	src: url('../font/pack2/TeeshtaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TitashMJ-Bold;
+	src: url('../font/pack2/TitashMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TitashMJ-BoldItalic;
+	src: url('../font/pack2/TitashMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TitashMJ-Italic;
+	src: url('../font/pack2/TitashMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TitashMJ;
+	src: url('../font/pack2/TitashMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnyBanglaMJ-Bold;
+	src: url('../font/pack2/TonnyBanglaMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnyBanglaMJ-BoldItalic;
+	src: url('../font/pack2/TonnyBanglaMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnyBanglaMJ-Italic;
+	src: url('../font/pack2/TonnyBanglaMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnyBanglaMJ;
+	src: url('../font/pack2/TonnyBanglaMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnyMJ-Bold;
+	src: url('../font/pack2/TonnyMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnyMJ-BoldItalic;
+	src: url('../font/pack2/TonnyMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnyMJ-Italic;
+	src: url('../font/pack2/TonnyMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnyMJ;
+	src: url('../font/pack2/TonnyMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnySushreeMJ-Bold;
+	src: url('../font/pack2/TonnySushreeMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnySushreeMJ-BoldItalic;
+	src: url('../font/pack2/TonnySushreeMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnySushreeMJ-Italic;
+	src: url('../font/pack2/TonnySushreeMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TonnySushreeMJ;
+	src: url('../font/pack2/TonnySushreeMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TuragMJ-Bold;
+	src: url('../font/pack2/TuragMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TuragMJ-BoldItalic;
+	src: url('../font/pack2/TuragMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TuragMJ-Italic;
+	src: url('../font/pack2/TuragMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TuragMJ;
+	src: url('../font/pack2/TuragMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TuragSushreeMJ-Bold;
+	src: url('../font/pack2/TuragSushreeMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TuragSushreeMJ-BoldItalic;
+	src: url('../font/pack2/TuragSushreeMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TuragSushreeMJ-Italic;
+	src: url('../font/pack2/TuragSushreeMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: TuragSushreeMJ;
+	src: url('../font/pack2/TuragSushreeMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: UrmeeMJ-Bold;
+	src: url('../font/pack2/UrmeeMJ-Bold.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: UrmeeMJ-BoldItalic;
+	src: url('../font/pack2/UrmeeMJ-BoldItalic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: UrmeeMJ-Italic;
+	src: url('../font/pack2/UrmeeMJ-Italic.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: UrmeeMJ;
+	src: url('../font/pack2/UrmeeMJ.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: artrbdo;
+	src: url('../font/pack2/artrbdo.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: artro;
+	src: url('../font/pack2/artro.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: kalpurush;
+	src: url('../font/pack2/kalpurush.ttf') format('truetype');
+}
+
+body {
+	margin: auto;
+	padding-top: 100px;
+	width: 50%;
+	text-align: center;
+	background-color: #000000;
+}
+
+#banglaText{
+	/*color: #d6d6d6;*/
+	color: #ffff;
+}
+
+#div1{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+#div2 button{
+	margin-top: 30px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  /*margin-top: -100px;*/
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #3e8e41;}

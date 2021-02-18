@@ -1,0 +1,82 @@
+body {
+	margin: auto;
+	padding-top: 200px;
+	width: 50%;
+	text-align: center;
+}
+
+@font-face { 
+	font-family: adorshoLipi ; 
+	src: url('../font/adorshoLipi.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: akshar ; 
+	src: url('../font/akshar.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: amarDesh ; 
+	src: url('../font/amarDesh.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: banglaKolom ; 
+	src: url('../font/banglaKolom.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: benSen ; 
+	src: url('../font/benSen.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: chandrabatiOMJ ; 
+	src: url('../font/chandrabatiOMJ.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: ekusheyKolom ; 
+	src: url('../font/ekusheyKolom/ekusheyKolom.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: ekusheySharifa ; 
+	src: url('../font/ekusheySharifa.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: ekusheySumit ; 
+	src: url('../font/ekusheySumit.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: lipiEkushey ; 
+	src: url('../font/lipiEkushey.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: muktinarrow ; 
+	src: url('../font/muktinarrow.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: nikosh ; 
+	src: url('../font/nikosh.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: siyamrupali ; 
+	src: url('../font/siyamrupali.ttf') format("truetype");
+}
+
+@font-face { 
+	font-family: sornaly ; 
+	src: url('../font/sornaly.ttf') format("truetype");
+}
+
+
+@font-face { 
+	font-family: notoSans ; 
+	src: url('../font/notoSans/notoSans.ttf') format("truetype");
+}
